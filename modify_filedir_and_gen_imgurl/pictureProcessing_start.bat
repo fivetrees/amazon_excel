@@ -1,0 +1,1 @@
+pictureProcessing.jar lpj_config.txt E:\tool\modify_filedir_and_gen_imgurl\imgdir

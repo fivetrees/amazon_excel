@@ -1,0 +1,1 @@
+pictureProcessing.jar config.txt C:/Users/Administrator/Desktop/aaaaaaaaaaa

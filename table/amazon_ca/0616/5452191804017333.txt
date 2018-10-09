@@ -1,0 +1,8 @@
+Feed Processing Summary:
+	Number of records processed		41
+	Number of records successful		41
+
+Looking for an easier way to take action on your listings? Check out the new Complete Your Drafts experience!  
+CYD saves your listings as drafts if they don't meet all the requirements at the time of submission.
+To complete your drafts, simply click on 'Catalog' > 'Complete Your Drafts' on Seller Central or follow this link to go directly to your drafts: https://sellercentral.amazon.com/inventory/view/DRAFT?ref_=xx_invdraft_ff_3ptpsr&myiFilters=SearchType&SearchType=batchid&batchid=50024017333
+
